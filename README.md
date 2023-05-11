@@ -1,3 +1,5 @@
+
+  
 # 💫 About Me:
 I'm Chan, an industrial engineering major with a keen interest in the exciting world of AI, especially speech and natural language processing (NLP). I'm currently learning and experimenting with TensorFlow and PyTorch to develop my skills in this field.<br><br>About Me<br>🎓 I'm currently pursuing my degree in industrial engineering.<br>💻 I'm passionate about coding and building applications that make a difference.<br>🤖 My primary focus is on AI, specifically speech and NLP.<br>🌟 I'm always eager to learn new things and challenge myself.<br>Skills<br>Python<br>TensorFlow<br>PyTorch<br>SQL
 
@@ -20,4 +22,3 @@ I'm Chan, an industrial engineering major with a keen interest in the exciting w
 ---
 [![](https://visitcount.itsvg.in/api?id=Ckck12&icon=6&color=5)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
